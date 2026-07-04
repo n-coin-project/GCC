@@ -1,146 +1,179 @@
-# 🌌 TEEM — Triphasic Energy Exchange Medium  
-### A Unified Physical Origin of Spacetime, Gravity, Black Holes, Quantum Dynamics, and Cosmic Expansion  
+# 🌌 Cosmic Specification Theory  
+### A Unified Information‑Processing Origin of Quantum Behavior, Gravity, Black Holes, Dark Matter, Dark Energy, and Cosmic Expansion  
 **NS (2026)**
 
 ---
 
 ## 📖 About This Repository
+This repository contains the complete **CS Theory Series**,  
+a unified physical framework in which quantum mechanics, gravity, black holes, dark matter,  
+dark energy, cosmic expansion, and large‑scale structure all emerge from the dynamics of a single substrate:
 
-This repository contains the complete **TEEM Series**,  
-a unified physical framework in which **spacetime, gravity, quantum evolution, black holes,  
-dark matter, dark energy, and cosmic expansion** all emerge from the dynamics of a single physical substrate:
-
-# ⭐ The Triphasic ETR Medium (V–M–ETR)
-
-TEEM replaces the fragmented structure of modern physics:
+## ⭐ The Cosmic Operating System (OS)
+CS Theory replaces the fragmented structure of modern physics:
 
 - geometric curvature (GR)  
 - dark matter halos  
-- dark energy  
+- dark energy vacuum pressure  
 - quantum measurement axioms  
 - singularities  
+- wavefunction collapse  
 - horizon absorption  
-- vacuum-based cosmology  
+- ΛCDM statistical cosmology  
 
-with **three interacting energy phases**:
+with three interacting computational quantities:
 
-- **V-phase** — analog wave energy  
-- **M-phase** — condensed/matter energy  
-- **ETR-phase** — digital spacetime substrate (density + update rate)
+### **Pcs — processing‑capacity density**  
+### **vCS — local update speed (time flow)**  
+### **Acs — processing deficit (gravity)**  
 
-Gravity, time flow, quantum evolution, and cosmic expansion all arise from  
-the **density and update dynamics** of the ETR medium.
+Quantum waves (VV), mass (MV), black holes, cosmic expansion, and structure formation  
+all arise from the load, deficit, and diffusion dynamics of the cosmic OS.
 
 ---
 
 ## 📚 Included Papers
 
-### **1. TEEM_Triphasic_Spacetime_Medium.pdf**  
-Foundations of TEEM  
-- Unified Lagrangian for V, M, ETR  
-- Emergent Einstein equation  
-- TEEM Schrödinger & Klein-Gordon equations  
-- Physical origin of time, gravity, and the speed of light  
-- Dark matter = ETR deficit pressure  
-- Dark energy = ETR regeneration  
-- Big Bang = ETR collapse → cyclic universe
+### **1. CS_Theory_Master_Equation.pdf**  
+**Foundations of CS Theory**
 
-👉 **[Open PDF](TEEM_Triphasic_Spacetime_Medium.pdf)**
-
----
-
-### **2. TEEM_BH_MediumBasedResolution_v1.pdf**  
-Black Hole Physics  
-- Finite-density ETR core (no singularity)  
-- Non-zero internal time flow (no information loss)  
-- Semi-permeable refractive horizon  
-- Gravitational-wave echoes  
-- Modified Hawking radiation  
-- Stable residual core  
-- Observational signatures (GW, EHT, X-ray)
-
-👉 **[Open PDF](TEEM_BH_MediumBasedResolution_v1.pdf)**
+- CS Master Equation (unified quantum + gravity + cosmology)  
+- Processing capacity Pcs and update speed vCS  
+- VV → MV phase transition (quantum collapse mechanism)  
+- OS crash time (quantum–classical boundary)  
+- Gravity = diffusion of processing deficits  
+- Black holes = frozen‑update OS sectors  
+- Vacuum energy = static vs dynamic OS memory  
+- c = maximum update speed  
+- h = minimum processing unit  
+👉 **Open PDF**
 
 ---
 
-### **3. TEEM_Unified_Medium_Cosmology_H0_GalacticGravity.pdf**  
-Cosmology & Galactic Dynamics  
-- SN Ia (1590 samples) fit with ΛCDM-level accuracy  
-- Natural resolution of the Hubble tension  
-- BAO & CMB acoustic scale consistency  
+### **2. CS_Theory_Observational_Evidence.pdf**  
+**Observational Validation of CS Theory**
+
+- SN Ia, BAO, H(z), f(z) fits (ΛCDM‑level accuracy)  
+- Natural resolution of Hubble tension  
+- σ₈ suppression from clock delay  
+- CMB Cold/Hot Spot diffusion → D ≈ 10⁻⁶ m²/s  
+- LSS formation from same diffusion coefficient  
 - Rotation curves without dark matter  
-- Medium depletion coefficient a_E  
-- Collision-enhanced gravity (M51, Antennae, Mice)  
-- Unified cosmic expansion + galactic gravity
-
-👉 **[Open PDF](TEEM_Unified_Medium_Cosmology_H0_GalacticGravity.pdf)**
+- Quasar‑era clock slowdown (z ≈ 2)  
+- Unified cosmic expansion + gravitational equalization  
+👉 **Open PDF**
 
 ---
 
 ## ⚛️ Core Principle
+CS Theory is governed by three fundamental computational fields:
 
-TEEM is governed by two fundamental medium fields:
+### **Pcs(x,t)** — processing‑capacity density  
+→ spatial tension / gravitational potential
 
-- **ETR density ρ_ETR(x,t)** → spatial tension / effective metric  
-- **ETR update rate U_ETR(x,t)** → local time flow  
+### **vCS(x,t)** — local update speed  
+→ physical time flow
+
+### **Acs(x,t)** — processing deficit  
+→ mass, gravity, black holes
 
 From these, all major physical phenomena emerge:
 
-### Gravity  
-`g = −∇ρ_ETR`
+---
 
-### Time flow  
-`dt = B · U_ETR(x,t)`
+### **Gravity**  
 
-### Wave propagation  
-`c_gw(x) = c · (U_ETR/U₀) · (ρ_ETR/ρ₀)^β`
 
-### Cosmic expansion  
-`H²(z) = H₀² [ Ω_M (1+z)³ + Ω_ETR (1+z)^β ]`
+\[
+g = -\nabla A_{cs}
+\]
 
-### Dark matter (effective)  
-`DM-like gravity = −∇ρ_ETR(depletion)`
 
-### Dark energy (effective)  
-`Λ = E · V_background`
+
+### **Time Flow**  
+
+
+\[
+v_{CS}(x,t) = k_{eq} P_{CS}(x,t)
+\]
+
+
+
+### **Quantum Waves (VV)**  
+
+
+\[
+\text{VV stability} \propto \frac{h}{E}
+\]
+
+
+
+### **Quantum Collapse (VV → MV)**  
+
+
+\[
+\frac{E}{h} > v_{CS} \quad \Rightarrow \quad \text{forced collapse}
+\]
+
+
+
+### **Cosmic Expansion**  
+
+
+\[
+H(z) = H_0 \sqrt{ \Omega_M (1+z)^3 + \Omega_{CS}(z) }
+\]
+
+
+
+### **Dark Matter (effective)**  
+Extended Acs compensation → flat rotation curves
+
+### **Dark Energy (effective)**  
+Dynamic deviation of Pcs from vacuum baseline
 
 ---
 
 ## 🚀 Key Empirical Results (2026)
 
-### Cosmology
-- SN Ia fit: **H₀ = 69.58**, Ω_M = 0.326, Ω_ETR = 0.771, β = 0.363  
-- Local vs global H₀: **78.88 vs 68.06**  
-- BAO distances reproduced  
-- CMB acoustic angle: **θ\* = 0.011094 rad**
+### **Cosmology**
+- SN Ia fit: ΛCDM‑level accuracy  
+- Hubble tension reduced from 5.6 → **0.53 km/s/Mpc**  
+- BAO scale reproduced  
+- CMB acoustic angle matched  
+- σ₈ suppression from clock delay t ≈ 0.1  
 
-### Galactic Gravity
-- Rotation curves reproduced with **a_E ≈ 148.6**  
-- No dark matter halos required  
-- Galaxy collisions increase a_E → enhanced gravity
+### **Large‑Scale Structure**
+- Diffusion coefficient **D ≈ 10⁻⁶ m²/s**  
+- Same D explains CMB → LSS evolution  
+- Filaments, voids, cluster nodes reproduced  
 
-### Black Holes
-- Finite-density ETR core  
-- No singularity  
-- Non-zero internal time  
-- Semi-permeable horizon  
-- Gravitational-wave echoes (0.03–0.05 ms)  
-- Modified Hawking radiation  
-- Stable remnant
+### **Galactic Gravity**
+- Rotation curves reproduced without dark matter  
+- Effective mass growth: **M(r) = M₀ + a r**  
+- a linked to cosmic diffusion coefficient D  
+- Collision‑enhanced gravity (M51, Antennae, Mice)  
 
-### Quantum Dynamics
-- Schrödinger equation modified by U_ETR  
-- Klein-Gordon mass term modified by ρ_ETR  
-- Medium-induced redshift & dispersion
+### **Black Holes**
+- Pcs → 0 → vCS → 0 (time freeze)  
+- No singularity (finite deficit core)  
+- VV→MV forced transition  
+- Hawking radiation = diffusion leakage  
+- Information preserved (frozen update cycles)  
+
+### **Quantum Dynamics**
+- OS crash time explains quantum–classical boundary  
+- Collapse = computational overload  
+- Entanglement = synchronized update regions  
+- Decoherence = load diffusion  
 
 ---
 
 ## 🧩 Unified Picture
+CS Theory provides a single physical origin for:
 
-TEEM provides a single physical origin for:
-
-- spacetime geometry  
-- gravitational attraction  
+- spacetime  
+- gravity  
 - quantum evolution  
 - black hole structure  
 - dark matter phenomena  
@@ -148,27 +181,26 @@ TEEM provides a single physical origin for:
 - cosmic acceleration  
 - Hubble tension  
 - galaxy rotation curves  
-- gravitational-wave echoes  
 - CMB anomalies  
+- quasar‑era slowdown  
+- LSS formation  
 - cyclic cosmology  
 
-All emerging from **one medium**.
+All emerging from **one computational medium**.
 
 ---
 
 ## 🤝 Contributing
-
 Discussion, verification, numerical tests, and independent simulations are welcome.
 
 ---
 
 ## 📄 License
-
 Released under **CC0‑1.0**.  
-Attribution to *NS (2026)* is appreciated but not required.
+Attribution to **NS (2026)** is appreciated but not required.
 
 ---
 
-> *“Spacetime is not geometry.  
-> It is a medium—updating, exchanging, evolving—  
-> and everything we observe is its vibration.”*
+### “The universe is not geometry.  
+It is an operating system—processing, updating, evolving—  
+and everything we observe is its load.”
