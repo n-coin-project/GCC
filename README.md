@@ -49,50 +49,24 @@ Dark matter and dark energy are **processing‑load phenomena**, not new substan
 ### **1. GCC_I_Discrete_Foundations.pdf**  
 **Foundations of Emergent Spacetime and Gravity**
 
-- Fixed grid count: **N_grid = constant**  
-- Universal update index **K** (microscopic time)  
-- Emergent lapse, shift, and spatial metric  
-- Lorentz symmetry from discrete interval  
-- Unitary quantum evolution on the same substrate  
-- V/M sector (coherent vs localized states)  
-- Decoherence, records, and the arrow of time  
-- Gravity = response of the grid state  
-- Cosmic expansion without increasing N_grid  
-
 👉 **Open PDF:**  
-[📄 GCC_I_Discrete_Foundations.pdf](GCC_I_Discrete_Foundations.pdf)
+[GCC_I_Discrete_Foundations.pdf](GCC_I_Discrete_Foundations.pdf)
 
 ---
 
 ### **2. GCC_II_Joint_Observational_Constraints.pdf**  
 **Cosmology, Geodesic Perturbations, and Observational Tests**
 
-- Unified M/V sector with equation of state  
-- Exact **n = 3** correspondence with flat ΛCDM  
-- CLASS implementation (background + perturbations)  
-- SN Ia, BAO, H(z), RSD, CMB, lensing likelihoods  
-- Profile likelihood shows **no evidence for n ≠ 3**  
-- Dark matter & dark energy = load‑state decomposition  
-- Cosmic expansion = change in grid‑state interpretation  
-
 👉 **Open PDF:**  
-[📄 GCC_II_Joint_Observational_Constraints.pdf](GCC_II_Joint_Observational_Constraints.pdf)
+[GCC_II_Joint_Observational_Constraints.pdf](GCC_II_Joint_Observational_Constraints.pdf)
 
 ---
 
 ### **3. GCC_III_Singularity_Avoidance.pdf**  
 **Strong Gravity, Saturation Response, and Regular Black Holes**
 
-- Bounded grid‑response variable  
-- Hayward‑type effective mass profile  
-- Finite curvature invariants (no singularity)  
-- Two‑horizon, extremal, and horizonless branches  
-- Shadow, ISCO, temperature, ringdown proxies  
-- Inner‑horizon stability as decisive falsification test  
-- Black holes = saturated‑response regions of the grid  
-
 👉 **Open PDF:**  
-[📄 GCC_III_Singularity_Avoidance.pdf](GCC_III_Singularity_Avoidance.pdf)
+[GCC_III_Singularity_Avoidance.pdf](GCC_III_Singularity_Avoidance.pdf)
 
 ---
 
@@ -122,58 +96,22 @@ All emerging from **one discrete update substrate**.
 ## 🚀 Key Principles
 
 ### **Emergent Time**
-
-
-\[
-dt = a(K)\, t_p\, dK
-\]
-
-
+$dt = a(K)\, t_p\, dK$
 
 ### **Emergent Distance**
-
-
-\[
-ds^2 = -a^2 c^2 t_p^2 dK^2 + \ell_p^2 h_{ab}(dN^a + B^a dK)(dN^b + B^b dK)
-\]
-
-
+$ds^2 = -a^2 c^2 t_p^2 dK^2 + \ell_p^2 h_{ab}(dN^a + B^a dK)(dN^b + B^b dK)$
 
 ### **Gravity**
-
-
-\[
-\text{gravity} = \text{grid‑response to processing load}
-\]
-
-
+$\text{gravity} = \text{grid‑response to processing load}$
 
 ### **Dark Matter**
-
-
-\[
-\text{DM} = \text{spatial load imbalance}
-\]
-
-
+$\text{DM} = \text{spatial load imbalance}$
 
 ### **Dark Energy**
-
-
-\[
-\text{DE} = \text{global load reduction}
-\]
-
-
+$\text{DE} = \text{global load reduction}$
 
 ### **Black Holes**
-
-
-\[
-\text{BH} = \text{saturated‑response regions}
-\]
-
-
+$\text{BH} = \text{saturated‑response regions}$
 
 ---
 
