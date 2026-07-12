@@ -59,7 +59,8 @@ Dark matter and dark energy are **processing‑load phenomena**, not new substan
 - Gravity = response of the grid state  
 - Cosmic expansion without increasing N_grid  
 
-👉 **Open PDF**: `GCC_I_Discrete_Foundations.pdf`
+👉 **Open PDF:**  
+[📄 GCC_I_Discrete_Foundations.pdf](GCC_I_Discrete_Foundations.pdf)
 
 ---
 
@@ -74,7 +75,8 @@ Dark matter and dark energy are **processing‑load phenomena**, not new substan
 - Dark matter & dark energy = load‑state decomposition  
 - Cosmic expansion = change in grid‑state interpretation  
 
-👉 **Open PDF**: `GCC_II_Joint_Observational_Constraints.pdf`
+👉 **Open PDF:**  
+[📄 GCC_II_Joint_Observational_Constraints.pdf](GCC_II_Joint_Observational_Constraints.pdf)
 
 ---
 
@@ -89,7 +91,8 @@ Dark matter and dark energy are **processing‑load phenomena**, not new substan
 - Inner‑horizon stability as decisive falsification test  
 - Black holes = saturated‑response regions of the grid  
 
-👉 **Open PDF**: `GCC_III_Singularity_Avoidance.pdf`
+👉 **Open PDF:**  
+[📄 GCC_III_Singularity_Avoidance.pdf](GCC_III_Singularity_Avoidance.pdf)
 
 ---
 
