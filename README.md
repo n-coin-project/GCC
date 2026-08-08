@@ -70,6 +70,13 @@ Dark matter and dark energy are **processing‑load phenomena**, not new substan
 
 ---
 
+### **4. GCC_IV_Quantum_Gravity_Candidate_v1_1.pdf**  
+**Quantum Completion and Emergent Gauge Structure**  
+👉 **Open PDF:** 
+[GCC_IV_Quantum_Gravity_Candidate_v1_1.pdf](GCC_IV_Quantum_Gravity_Candidate_v1_1.pdf)
+
+---
+
 ## 🧩 Unified Picture
 
 GCC provides a single computational origin for:
